@@ -1,0 +1,55 @@
+/* common css start */
+body {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #898989;
+  background-color: #fcdb00;
+}
+
+/* common css end */
+/* header start */
+header {
+  padding: 2px 0;
+  background-color: transparent;
+}
+.cm_nav {
+}
+.logo {
+  width: 300px;
+  cursor: pointer;
+}
+.c_toggle {
+  color: rgba(21, 20, 20, 1) !important;
+}
+.menu ul li a {
+  margin: 0 30px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #010101 !important;
+}
+.menu ul li:last-child a {
+  margin-right: 0;
+}
+.menu ul li a:hover {
+  color: white !important;
+}
+
+/* header end */
+.h_text {
+  font-family: "PT Sans", sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+  color: white;
+}
+.right-col {
+  margin: 150px 0 100px 500px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  display: flex;
+}
+.b_p {
+  margin: 30px 0 !important;
+}
